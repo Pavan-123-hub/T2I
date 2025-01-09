@@ -1,0 +1,2 @@
+python TextToImage.py
+pause
